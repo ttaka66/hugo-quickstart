@@ -3,30 +3,30 @@ disqusShortname = ""
 enableGitInfo = true
 enableRobotsTXT = true
 hasCJKLanguage = true
-languageCode = "en"
+languageCode = "ja"
 paginate = 5
 rssLimit = 10
 theme = "hugo-texify3"
-title = "TeXify3"
+title = "Test Blog"
 
 [author]
-name = "Michael Neuper"
-email = "michael@michaelneuper.com"
+name = "Takahiro Tsuchiya"
+email = "takahiro.dummy@dummy.com"
 
 [taxonomies]
 tags = "tags"
 categories = "categories"
 
 [params]
-title="TeXify3"
-description = "TeXify3 - A LaTeX-style hugo theme with the gruvbox color scheme for personal blogging"
+title="Test Blog"
+description = "Test Blog "
 footnote = """
 Powered by  <a class=link href=https://gohugo.io target=_blank rel=noopener>Hugo</a> | 
 Theme <a class=link href=https://github.com/michaelneuper/hugo-texify3 target=_blank rel=noopener>TeXify3</a>
 """
 customCSS = []
 customJS = []
-dateFormat = "2 January 2006"
+dateFormat = "2006年1月2日"
 emphasisWithDots = true
 toc = true
 rootFontSize = "105%"
